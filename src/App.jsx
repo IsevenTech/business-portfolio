@@ -146,7 +146,31 @@ function App() {
                   <span key={item}>{item}</span>
                 ))}
               </div>
-            </article>
+            
+<a
+  href={
+    project.number === "01"
+      ? "https://github.com/IsevenTech/go-delivery-system"
+      : project.number === "02"
+      ? "https://github.com/IsevenTech/business-portfolio"
+      : "https://github.com/IsevenTech/transport-management-app."
+  }
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{
+    display: "inline-block",
+    marginTop: "24px",
+    color: "#a78bfa",
+    textDecoration: "none",
+    fontSize: "14px",
+    fontWeight: 600,
+  }}
+>
+  View on GitHub ↗
+</a>
+
+              </article>
+
           ))}
         </div>
       </section>
