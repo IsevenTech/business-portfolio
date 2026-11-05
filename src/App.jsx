@@ -75,9 +75,7 @@ function App() {
         </h1>
 
         <p className="hero-description">
-          I am João Ildefonso, a technology professional focused on
-          software development, modern web technologies and practical
-          digital solutions.
+          IT support professional with hands-on experience in computer and mobile device maintenance, currently developing software projects with React, JavaScript, Python, and Go.
         </p>
 
         <div className="hero-actions">
