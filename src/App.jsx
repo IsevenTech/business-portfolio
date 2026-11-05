@@ -186,12 +186,12 @@ function App() {
 
         <div className="contact-actions">
           <a
-  className="primary-button"
-  href="/business-portfolio/Joao_Ildefonso_CV_2026.pdf"
-  download="Joao_Ildefonso_CV_2026.pdf"
->
-  Download CV ↓
-</a>
+             className="primary-button"
+              href="/business-portfolio/Joao_Ildefonso_CV_2026.pdf"
+              download="Joao_Ildefonso_CV_2026.pdf"
+  >
+           Download CV ↓
+          </a>
           <a
             className="primary-button"
             href="mailto:joao.iseventech@gmail.com"
