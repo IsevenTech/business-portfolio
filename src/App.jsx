@@ -189,7 +189,7 @@ function App() {
              className="primary-button"
               href="/business-portfolio/Joao_Ildefonso_CV_2026.pdf"
               download="Joao_Ildefonso_CV_2026.pdf"
-  >
+          >
            Download CV ↓
           </a>
           <a
