@@ -31,13 +31,13 @@ const projects = [
     status: "LIVE DEMO",
   },
   {
-    number: "03",
-    name: "Digital Solutions",
-    description:
-      "A collection of practical technology experiments and digital solutions focused on usability and modern web development.",
-    stack: ["Python", "JavaScript", "React"],
-    status: "EXPLORATION",
-  },
+  number: "03",
+  name: "Transport Management App",
+  description:
+    "A transport management dashboard for managing drivers, vehicles, deliveries, and active trips.",
+  stack: ["HTML"],
+  status: "PUBLIC REPOSITORY",
+},
 ];
 
 function App() {
