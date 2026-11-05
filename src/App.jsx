@@ -104,10 +104,7 @@ function App() {
           <span>real problems.</span>
         </h2>
         <p className="section-description">
-          I am a technology professional with experience in IT support,
-          computer and mobile device maintenance, and an ongoing focus
-          on software development. I enjoy building practical digital
-          solutions and continuously improving my technical skills.
+          I am a technology professional with experience in IT support and computer and mobile device maintenance. Alongside this background, I develop practical software projects using JavaScript, React, Python, and Go, focusing on solving real problems and continuously improving my technical skills.
         </p>
       </section>
 
